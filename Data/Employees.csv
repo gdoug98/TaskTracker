@@ -1,0 +1,13 @@
+Name,Role,DoB,Manager
+Rick Jones,CEO,13/04/1956,
+Tabitha Newman,Secretary,03/11/1985,Rick Jones
+Henry Khan,Senior Financial Analyst,09/11/1980,Kathy Riordan
+Kathy Riordan,CFO,16/10/1968,Rick Jones
+Carlie McKenna,Junior Programme Manager,08/10/1993,Jermaine Ross
+Gabrielle Espinosa Martinez,Business Intelligence Analyst,14/09/1984,Jermaine Ross
+Jermaine Ross,Finance Director North America,21/09/1981,David Meyer
+David Meyer,Global Finance Director,07/10/1979,Kathy Riordan
+Isaac Petrov,Lead developer,08/10/1991,Mark Butararyanathan
+Erin Aster,Developer,20/05/1997,Mark Butararyanathan
+Mark Butararyanathan,Project Manager,02/08/1981,Johnathan Cole
+Johnathan Cole,FinTech Team Leader,09/03/1974,Jermaine Ross
